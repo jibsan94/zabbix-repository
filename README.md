@@ -11,7 +11,7 @@
   
     /etc/apt/sources.list.d/zabbix.list
     
-## Them run:
+## Then run:
     
     apt-get update
     
